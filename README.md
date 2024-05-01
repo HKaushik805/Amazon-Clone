@@ -1,2 +1,7 @@
 # Amazon-Clone
-Based on HTML, CSS, Bootstrap
+**Technologies used -**
+HTML
+
+CSS
+
+Bootstrap
